@@ -1,2 +1,2 @@
 # RSVP_Movies_Case_Study
-Analyzed IMDb data to identify top genres, directors, actors, and production houses; provided strategic recommendations to optimize RSVP Movies' future projects and market reach.
+Analyzed IMDb dataset to uncover trends in genre popularity, production patterns, and top-performing actors, directors, and studios. Recommended strategic focus areas for RSVP Movies, including Drama, Action, and Thriller genres, global partnerships, and talent selection to boost market appeal and project success.
